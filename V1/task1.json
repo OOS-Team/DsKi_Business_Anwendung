@@ -1,0 +1,1 @@
+[{"name": "Alice", "age": 25, "scores": {"math": 85, "physics": 90, "chemistry": 78}}, {"name": "Bob", "age": 23, "scores": {"math": 88, "physics": 82, "chemistry": 92}}, {"name": "Charlie", "age": 27, "scores": {"math": 72, "physics": 85, "chemistry": 88}}, {"name": "David", "age": 22, "scores": {"math": 90, "physics": 78, "chemistry": 76}}]
